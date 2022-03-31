@@ -1,5 +1,6 @@
-### Hi there 👋
+### Je m'appelle Tommy, j'habite actuellement en France et j'ai pour projet professionnel de devenir Développeur FullStack !
 
+#
 <!--
 **TommyCassu/TommyCassu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
