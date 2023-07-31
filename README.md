@@ -1,4 +1,4 @@
-### Je m'appelle Tommy, j'habite actuellement en France et j'ai pour projet professionnel de devenir Développeur FullStack !
+### Je m'appelle Tommy, j'habite actuellement en France et j'ai pour projet professionnel de devenir Développeur !
 
 #
 <!--
