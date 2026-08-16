@@ -27,7 +27,7 @@ Alongside school, I also work a student job in a hypermarket — it's given me a
 | Project | Description | Completed |
 |---|---|:---:|
 | **42 - Webserver** | An HTTP/1.0 web server built entirely from scratch — handling requests, responses, and routing manually, without any web framework. | 🟢 |
-| **42 - Inception** | A system administration project setting up a small infrastructure with Docker: NGINX, WordPress, and MariaDB each running in their own container via Docker Compose. |🔴 |
+| **42 - Inception** | A system administration project setting up a small infrastructure with Docker: NGINX, WordPress, and MariaDB each running in their own container via Docker Compose. | 🟢 |
 | **42 - CPP Pool** | A series of exercises introducing C++ and object-oriented programming: classes, inheritance, polymorphism, templates, and the STL. | 🟢 |
 | **42 - Cub3d** | A raycasting engine inspired by Wolfenstein 3D, rendering a first-person 3D view of a maze from a 2D map file. | 🟢 |
 | **42 - Minishell** | A simplified Unix shell implementing command parsing, piping, I/O redirection, environment variables, and built-in commands. | 🟢 |
